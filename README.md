@@ -10,3 +10,8 @@ What i learned
 - comparing set of strings
 - storing user response with scanner
   
+How to run
+When running the app
+when you get prompt, in the terminal:
+tap "yes" to start the game
+then choose btw: "rock" "paper" "scissors".
